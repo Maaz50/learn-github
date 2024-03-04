@@ -1,0 +1,29 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+body{
+    height: 500vh;
+    background:linear-gradient( to top left, indigo 50%,purple,navy);
+}
+
+.container2{
+    margin-inline-start: 25px;
+}
+
+.command-input{
+    text-align: center;
+    border: 2px solid white;
+    border-collapse: collapse;
+}
+
+.table-header th{
+    padding: 20px;
+    color: white;
+}
+
+.table-body tr td{
+    padding: 16px;
+    font-weight: bold;
+}
