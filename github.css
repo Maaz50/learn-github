@@ -14,16 +14,21 @@ body{
 
 .command-input{
     text-align: center;
-    border: 2px solid white;
+    border: 2px solid black;
     border-collapse: collapse;
+
+    background-color: white;
 }
+
+
 
 .table-header th{
     padding: 20px;
-    color: white;
+    color: red;
 }
 
 .table-body tr td{
     padding: 16px;
     font-weight: bold;
 }
+
